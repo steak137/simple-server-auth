@@ -1,4 +1,4 @@
-## simple-server-auth
+### simple-server-auth
 
 This C++ program is a basic HTTP server built using the Crow C++ microframework. It handles HTTP GET requests on the "/watan/ilovecats" route and performs simple authentication by checking the provided username and password parameters.
 
